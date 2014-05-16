@@ -1,0 +1,14 @@
+/**
+ * Module dependencies
+ */
+
+@require './variables'
+
+/**
+ * Replace `base`, `small`, etc., with `font--...`
+ * if available.
+ * @mixin
+ */
+
+font-size(arg)
+  add-property('font-size', (lookup('font-size--' + arg) or arg))
