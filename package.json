@@ -1,9 +1,9 @@
 {
   "name" : "shoelace-ui-font-size",
   "version" : "0.0.1",
-  "description" : "Font-size variables",
+  "description" : "Font-size variables and mixin",
   "repository" : "https://github.com/shoelace-ui/font-size.git",
-  "keywords" : ["stylus","font-size","variable","variables"],
+  "keywords" : ["shoelace", "font", "size", "font-size"],
   "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
   "license" : "MIT"
 }
