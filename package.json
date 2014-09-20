@@ -1,6 +1,6 @@
 {
   "name" : "shoelace-ui-font-size",
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "description" : "Font-size variables and mixin",
   "repository" : "https://github.com/shoelace-ui/font-size.git",
   "keywords" : ["shoelace", "font", "size", "font-size"],
